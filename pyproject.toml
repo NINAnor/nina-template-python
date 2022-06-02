@@ -1,0 +1,5 @@
+[tool.black]
+
+[tool.isort]
+# https://pycqa.github.io/isort/docs/configuration/black_compatibility.html
+profile = "black"
