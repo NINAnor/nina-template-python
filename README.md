@@ -21,7 +21,7 @@ Add paths and files that you do not want to be committed by adding them to .giti
 3. Install `pre-commit`: `pipx install pre-commit`
 4. Configure PATH: `pipx ensurepath`
 5. Close and open your shell again
-6. Enter into your git repository and install the hooks: `pre-commit install` (optional, but reccomended)
+6. Enter into your git repository and install the hooks: `pre-commit install` (optional, but recommended)
 
 ### How to use it
 
