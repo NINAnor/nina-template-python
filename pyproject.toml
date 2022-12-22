@@ -3,3 +3,7 @@
 [tool.isort]
 # https://pycqa.github.io/isort/docs/configuration/black_compatibility.html
 profile = "black"
+
+[tool.ruff]
+fix = true
+ignore = ["E501"]
