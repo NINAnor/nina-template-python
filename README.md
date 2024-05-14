@@ -1,3 +1,5 @@
+**Deprecated in favour of https://github.com/NINAnor/python-template**
+
 # nina-template-python
 
 Modify this `README.md` file, to explain what your software does.
